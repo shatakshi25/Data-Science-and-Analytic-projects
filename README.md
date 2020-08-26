@@ -1,4 +1,4 @@
-# Data-Science-and-Analytic-projects
+# Data Science and Analytic projects
 The Sparks Foundation internship
 
 Task 2 - To Explore Supervised Machine Learning 
